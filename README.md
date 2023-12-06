@@ -1,3 +1,7 @@
+##Output
+![image](https://github.com/ramanathanem/Curd-app/assets/137532243/5433dc09-d287-4200-ab9c-b4ed6f298867)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
