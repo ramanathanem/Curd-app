@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##npm install
+
+First of all you can install node modules
+
+##npm run server
+
+you can copy and paste in the resource localhost
+
+  http://localhost:5000/user
+
 ## Available Scripts
 
 In the project directory, you can run:
