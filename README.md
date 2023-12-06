@@ -2,6 +2,11 @@
 ![image](https://github.com/ramanathanem/Curd-app/assets/137532243/5433dc09-d287-4200-ab9c-b4ed6f298867)
 
 
+Stored data inJson server
+
+![image](https://github.com/ramanathanem/Curd-app/assets/137532243/577dae6b-8934-402a-a44f-16a0a91756b1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
